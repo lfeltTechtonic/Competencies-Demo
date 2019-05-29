@@ -16,4 +16,5 @@ INSERT INTO cats
    (13, 'Oliva Benson', 'Scottish Fold', 'White', 6),
    (14, 'Merdith Grey', 'Scottish Fold', 'White and Grey', 5)
    
-GO
+INSERT INTO Cats
+VALUES (15, 'Gus', 'Mix', 'Black', 11, 'True' );
