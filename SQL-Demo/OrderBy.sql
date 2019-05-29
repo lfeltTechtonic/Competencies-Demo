@@ -1,0 +1,2 @@
+SELECT * FROM Cats
+ORDER BY Age DESC;
