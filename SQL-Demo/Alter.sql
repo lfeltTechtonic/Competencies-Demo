@@ -1,2 +1,4 @@
-
+ALTER TABLE Cats 
+ADD Is_Cute TEXT
+DEFAULT 'Yes';
 
